@@ -1,2 +1,2 @@
-Link for accessing all web site archieves time-by-time: https://web.archive.org/
+Link for accessing all websites archieves on internet time-by-time: https://web.archive.org/
 
