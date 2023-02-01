@@ -1,0 +1,22 @@
+h3{
+    color: darkgreen;
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+body{
+    background-color: #E3FDFD; 
+}
+hr{
+    border-style:none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+}
