@@ -8,3 +8,7 @@ Link for download Pesticide chrome extension:chrome://extensions/?id=bakpbgckdne
 Link for accessing emojis png : https://emojipedia.org/
 Link for generating button as per your requirements to follow this link: https://css3buttongenerator.com/
 
+BOOTSTRAP SECTION RESOURCES
+
+Link for using platform CODEPLY either of using CODEPEN.IO for bootstrap section: https://www.codeply.com/p?starter=Bootstrap%205
+
