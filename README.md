@@ -12,4 +12,5 @@ BOOTSTRAP SECTION RESOURCES
 
 Link for using platform CODEPLY either of using CODEPEN.IO for bootstrap section: https://www.codeply.com/p?starter=Bootstrap%205
 Link for refering bootstrap documentation: https://getbootstrap.com/docs/4.0/getting-started/
+Link for understanding the term of CDN(content delivery network): https://www.submarinecablemap.com/
 
